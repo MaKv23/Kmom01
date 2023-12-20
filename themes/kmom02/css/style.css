@@ -6502,7 +6502,7 @@ body {
 }
 
 .main {
-  width: 64em;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -6530,6 +6530,10 @@ body {
 
 .footer .social {
   font-size: 2rem;
+}
+
+.social a {
+  text-decoration: none;
 }
 
 body {
@@ -6602,7 +6606,13 @@ blockquote {
 }
 
 .box {
+  grid-column: span 3;
   border: 1px solid #fff;
+  padding: 1rem;
+}
+
+.box1 {
+  grid-column: span 3;
   padding: 1rem;
 }
 

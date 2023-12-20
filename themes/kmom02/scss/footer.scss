@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 4px solid #0f0;
+    border-top: 4px solid $style-color;
     background-color: #222;
     color: #fff;
     padding: 4rem 6rem;
@@ -13,4 +13,8 @@
 
 .footer .social {
     font-size: 2rem;
+}
+
+.social a {
+    text-decoration: none;
 }

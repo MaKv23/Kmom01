@@ -22,7 +22,7 @@
 }
 
 .title * {
-    color: #111;
+    color: $font-color;
 }
 
 .title p {
@@ -35,5 +35,5 @@
 }
 
 .nav a:hover {
-    border-bottom: 4px solid #0f0;
+    border-bottom: 4px solid $style-color;
 }
