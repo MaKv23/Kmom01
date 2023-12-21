@@ -1,0 +1,40 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.gallery picture {
+    width: 33%;
+}
+
+.gallery img,
+.gallery source {
+    width: 100%;
+}
+
+.griddy {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.box {
+    grid-column: span 3;
+}
+
+.box333 {
+    grid-column: span 1;
+}
+
+@media (max-width: 767px) {
+    .griddy {
+        grid-template-columns: 1fr;
+    }
+    
+    .box,
+    .box333 {
+        grid-column: span 1; 
+    }
+}
