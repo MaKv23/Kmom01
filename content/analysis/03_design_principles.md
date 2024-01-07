@@ -62,8 +62,7 @@ Min hemsida
 ---
 Designen på hemsidan är simpel och minimalistisk med funktoin av light och drakmode. Lightmode består av en ljus blå/grå nyans med svart text och darkmode av en mörkgön bakgrund med ljusgrön text. Designen är simpel och lätt att läsa av förutom darkmodes länkar. vilket kan göra det svårt för användaren att navigera. Hemsidan använder sig av framing för att omkapsla olika element där text och bilder används. Lines principen används för att separera header, main och footer för en förbättrad upplevelse. Colors principen är implementerad genom olika färgscheman beroende på dark och lightmode. Designprinciperna är implementerade i samtliga undersidor på hemsidan.
 
-För att förbättra hemsidan kommer jag att implementerda tre designprinciper. Depth som jag kommer att implementera på undersidorna, "Rapporter" och "Tech"
-Texture kommer implementeras i headern på samtliga sidor. Sista designprincipen jag valt att implementera är symmetri vilket jag implementerade i samtliga sidors main där all text förutom code är centrerad för att göra hemsidan symetrisk.
+För att förbättra hemsidan kommer jag att implementerda tre designprinciper. Depth som jag kommer att implementera på undersidorna, "Rapporter" och "Tech". Texture kommer implementeras i headern på samtliga sidor. Sista designprincipen jag valt att implementera är symmetri vilket implementeras i samtliga sidors "main".
 
 
 Analys
