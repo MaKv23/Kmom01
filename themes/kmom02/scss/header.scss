@@ -3,11 +3,18 @@
     justify-content: space-between;
 }
 
+.header {
+    border-bottom: 4px solid $style-color;
+    margin-bottom: 10px;
+    background-image: $background-img;
+}
+
 .nav ul {
     display: flex;
     justify-content: flex-end;
     padding: 1em 0;
     list-style: none;
+    text-align: center;
 }
 
 .nav ul li {
@@ -17,7 +24,6 @@
 .nav a, .nav-toggle {
     color: $font-color;
 }
-
 
 .nav-toggle {
     display: none;

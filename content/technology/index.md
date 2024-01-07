@@ -9,7 +9,7 @@ Template: technologies
 </div>
 
 <div class="box33">
-    <h1> <a href="%base_url%?technology/css">CSS</a> </h1>
+    <div class="centered"> <h1> <a href="%base_url%?technology/css">CSS</a> </h1> </div>
 </div>
 
 <div class="box66">

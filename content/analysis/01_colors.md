@@ -56,7 +56,7 @@ När det kommer till blockets färhschema och typografi anser jag att de har upp
 </tr>
 </table>
 
-<img src="%assets_url%/img/blocket.png" max-width="40%">
+<img src="%assets_url%/img/blocket.png" alt="Blocket" max-width="40%">
 
 <h1> Coop </h1>
 
@@ -86,8 +86,7 @@ När det kommer till min åsikt om Coops val av färgschema och typografi så sk
 </tr>
 </table>
 
-![Coop](%assets_url%/img/coop.png)
-
+<img src="%assets_url%/img/coop.png" alt="coop" max-width="40%">
 
 
 <h1> Prisjakt </h1>
@@ -117,7 +116,7 @@ Jag anser att prisjakt har uppfylt sitt mål för den profil de söker efter i h
 </table>
 
 
-![Prisjakt](%assets_url%/img/prisjakt.png)
+<img src="%assets_url%/img/prisjakt.png" alt="prisjakt" max-width="40%">
 
 Analys
 -----------------------

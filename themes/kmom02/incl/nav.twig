@@ -2,8 +2,8 @@
     <div class="site-header">
         {% if pages["_meta"].meta.logo %}
         <div class="logo">
-            <a href="{{ base_url }}">
-                <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
+            <a href="{{ base_url }}" aria-label="Gå till förstasidan"> 
+                <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="Orienteringsskärm" />
             </a>
         </div>
         {% endif %}

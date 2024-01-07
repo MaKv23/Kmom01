@@ -8,15 +8,16 @@ p, td, th, li, dd {
     font-family: $main-font;
     margin-bottom: 1.4rem;
     font-size: 1.1em;
-    text-align: justify;
     overflow-wrap: break-word;
     word-wrap: break-word;
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
     font-weight: bold;
     font-family: $header-font;
+    text-align: center;
 }
 
 img {

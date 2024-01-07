@@ -1,13 +1,32 @@
+
 .main {
     width: 80%;
     margin: 0 auto;
+    min-height: 400px;
 }
 
 p {
     margin-bottom: 1.4rem;
     font-size: 1.1em;
+    text-align: center;
 }
 
 body {
     background-color: $background-color;
 }
+
+a:link {
+    color: $link-visited;
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+  a:visited {
+    color: $link-visited;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+  }

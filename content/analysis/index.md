@@ -1,7 +1,7 @@
 ---
 Title: Rapporter
 Description: This is our Analysis page.
-Template: analysis copy
+Template: analys
 ---
 
 <div class="box1">

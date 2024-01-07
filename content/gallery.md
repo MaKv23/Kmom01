@@ -7,7 +7,7 @@ Template: gallery
 
 
 <div class="box333">
-    <a href="http://localhost:8080/dbwebb/design/me/portfolio/image/dog1.jpg" target="_blank">
+    <a href="http://localhost:8080/dbwebb/design/me/portfolio/image/dog1.jpg" class="picture" target="_blank">
         <picture>
             <source media="(min-width: 668px)" srcset="%base_url%/image/dog1.jpg?w=600&h=400&q=70">
             <img src="%base_url%/image/dog1.jpg?w=200&h=300&crop-to-fit&area=0,0,0,0" alt="A sheep">
